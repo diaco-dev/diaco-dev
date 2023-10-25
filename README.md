@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm shila, Mobile and Web  developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm shila, Web  developer 👨‍💻 working since 2020 🚀</div>  
   
 
 - 🌱 I’m currently learning django  
