@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+</td></tr></table>  
 
+<br/>  
 
 ## Connect with me  
 <div align="center">
