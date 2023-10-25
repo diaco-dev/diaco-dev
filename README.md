@@ -62,17 +62,6 @@ Here are some ideas to get you started:
 
 
 
-### Mobile Apps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lilunkeldemon" target="_blank">
