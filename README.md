@@ -27,10 +27,10 @@
 ![Redis](https://img.shields.io/badge/redis-CC0000?style=flat&logo=redis&logoColor=white)
 
 - 🐍 **Languages:** Python, JavaScript (basic), Bash
-- ⚙️ **Frameworks:** Django, Django REST Framework, FastAPI
+- ⚙️ **Frameworks:** Django REST Framework, FastAPI
 - 🗄️ **Databases:** PostgreSQL, SQLite, Redis
 - 🐳 **DevOps:** Docker, Docker Compose, Nginx, GitHub Actions
-- 🔌 **Others:** Celery, JWT, WebSockets, MQTT, Swagger / OpenAPI
+- 🔌 **Others:** Celery, JWT, WebSockets, Swagger / OpenAPI
 
 ---
 
