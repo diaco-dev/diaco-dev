@@ -53,14 +53,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaco-dev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 
 - 🦈 **Pull Shark**: Merged 10+ pull requests in open-source Python projects.
