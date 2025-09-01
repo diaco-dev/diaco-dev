@@ -63,8 +63,8 @@
 
 ### 📫 Get in Touch
 
-- 🌐 [My LinkedIn](https://www.linkedin.com/in/your-link/)
-- ✉️ Email: yourname@example.com
+- 🌐 [My LinkedIn](www.linkedin.com/in/ario-hasanabbadi-09b918381)
+- ✉️ Email: ario.h.abbedi@gmail.com
 - 🌍 Location: Iran (Available for remote opportunities)
 
 ---
