@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Diaco 👋</h1>
+<h3 align="center">Hey there! I'm Diaco, a backend developer who loves turning ideas into scalable APIs 🚀</h3>
 
 <p align="center">
   <b>Back-End Developer | Python Enthusiast | API Specialist</b><br>
-  Experienced with Django REST Framework, FastAPI, PostgreSQL, Docker & more.
 </p>
 
 ---
@@ -53,19 +52,11 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-- 🦈 **Pull Shark**: Merged 10+ pull requests in open-source Python projects.
-- ⭐ **Starstruck**: Earned 50+ stars across my repositories.
-- 🧠 **Galaxy Brain**: Provided accepted answers in GitHub Discussions.
-
----
 
 ### 📫 Get in Touch
 
 - 🌐 [My LinkedIn](www.linkedin.com/in/ario-hasanabbadi-09b918381)
 - ✉️ Email: ario.h.abbedi@gmail.com
-- 🌍 Location: Iran (Available for remote opportunities)
 
 ---
 
@@ -74,13 +65,6 @@ When I'm not coding, I enjoy [e.g., exploring new hiking trails, playing chess, 
 
 ---
 
-### 🧠 Current Focus
-
-- 🔭 Building production-ready APIs with **FastAPI** and **DRF**
-- 🧪 Testing APIs using **Pytest** and **Postman**
-- 🧠 Learning **System Design**, **CI/CD**, and **Cloud deployment**
-
----
 
 
-<p align="center">Thanks for visiting! ⭐ Feel free to check out my repositories and connect!</p>
+<p align="center">⭐ Check out my projects and let’s build something awesome together!</p>
