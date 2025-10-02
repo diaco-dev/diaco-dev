@@ -1,18 +1,16 @@
-<h3 align="center">Hey there! I'm Diaco, a backend developer who loves turning ideas into scalable APIs 🚀</h3>
+<h2 align="center">Backend Developer ⚡ Crafting high-performance APIs & smart automation tools
+</h2>
 
-<p align="center">
-  <b>Back-End Developer | Python Enthusiast | API Specialist</b><br>
-</p>
 
----
+### 💻 About Me– Ario H.Abbadi
 
-### 👨‍💻 About Me
+- 🧠 Backend Enthusiast
+     I’ve always been fascinated by the behind-the-scenes of software, where the core architecture of systems and the heart of a project are formed. This passion led me to backend development, focusing on system structure and logic.
+- ⚡ Clean & Efficient Code Lover
+  More than anything, I enjoy designing clean, reliable APIs and optimizing system performance. It’s important to me that the code I write is both fast and maintainable.
 
-- 🧠 Backend developer with **2+ years** of hands-on experience building scalable web APIs and backend systems.
-- 💻 Specialized in **Python**, using frameworks like **Django REST Framework** and **FastAPI**.
-- 🛠️ Solid experience in working with **PostgreSQL**, **Redis**, **Celery**, **Docker**, and **Nginx**.
-- 🚀 Passionate about building **clean**, **maintainable**, and **well-documented** backend services.
-- 📦 I love working with **microservices**, **asynchronous tasks**, and **API integrations**.
+- 🤖 Automation & Smart Tools
+  Beyond web development, I’m deeply interested in automation and building practical assistants—tools that make daily tasks or complex processes smarter and simpler. This curiosity drives me to continuously learn and develop precise, efficient APIs.
 
 ---
 
