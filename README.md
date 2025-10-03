@@ -1,21 +1,21 @@
-<h2 align="center">Backend Developer ⚡ Crafting high-performance APIs & smart automation tools
-</h2>
+<h2 align="center">Backend Developer ⚡ Building scalable APIs & automation solutions</h2>
+
+
+🔍 What I’m Looking For  
+Open to remote backend opportunities, collaborations, and contributing to open-source projects.
 
 
 ### 💻 About Me– Ario H.Abbadi
 
-- 🧠 Backend Enthusiast
-     I’ve always been fascinated by the behind-the-scenes of software, where the core architecture of systems and the heart of a project are formed. This passion led me to backend development, focusing on system structure and logic.
-- ⚡ Clean & Efficient Code Lover
-  More than anything, I enjoy designing clean, reliable APIs and optimizing system performance. It’s important to me that the code I write is both fast and maintainable.
-
-- 🤖 Automation & Smart Tools
-  Beyond web development, I’m deeply interested in automation and building practical assistants—tools that make daily tasks or complex processes smarter and simpler. This curiosity drives me to continuously learn and develop precise, efficient APIs.
+- 🧠 Backend Developer with 2+ years of experience designing core system architectures.  
+- ⚡ Passionate about building clean, scalable APIs and optimizing performance.  
+- 🤖 Enthusiast in automation & smart assistants that simplify complex workflows.  
+- 🚀 Experienced with microservices, asynchronous tasks, and API integrations.  
 
 ---
 
 ### 🔧 Tech Stack
-
+Core skills and tools I work with daily:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
@@ -35,8 +35,10 @@
 
 - **[TaskManagerAPI]**  
   A RESTful task management API with role-based access control and real-time notifications.  
+  ✅ Helped teams manage tasks more efficiently with real-time updates.  
   **Tech**: Django REST Framework, PostgreSQL, Celery, Docker  
-  [Repository](https://github.com/diaco-dev/task-manager-api) | [Live Demo](https://task-manager-api.example.com)
+  [Repository](...) | [Live Demo](...)
+
 
 - **[EcommerceAPI]**  
   A scalable e-commerce API with user authentication, product management, and payment integration.  
@@ -58,11 +60,19 @@
 
 ---
 
+### 📚 Currently Learning  
+- Advanced system design  
+- CI/CD pipelines with Jenkins  
+- Cloud deployment (AWS / GCP)  
+
+---
+
 ### ⚡ Fun Fact
-When I'm not coding, I enjoy [e.g., exploring new hiking trails, playing chess, or experimenting with home automation projects].
+I once tried to automate making coffee with a Raspberry Pi ☕🤖 – because automation should make life tastier too!
 
 ---
 
 
 
-<p align="center">⭐ Check out my projects and let’s build something awesome together!</p>
+<p align="center">⭐ Check out my projects, and let’s build something impactful together!</p>
+
