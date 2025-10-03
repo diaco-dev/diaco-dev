@@ -7,7 +7,7 @@ Open to remote backend opportunities, collaborations, and contributing to open-s
 
 ### 💻 About Me– Ario H.Abbadi
 
-- 🧠 Backend Developer with 2+ years of experience designing core system architectures.  
+- 🧠 Backend Developer with 4+ years of experience designing core system architectures.  
 - ⚡ Passionate about building clean, scalable APIs and optimizing performance.  
 - 🤖 Enthusiast in automation & smart assistants that simplify complex workflows.  
 - 🚀 Experienced with microservices, asynchronous tasks, and API integrations.  
