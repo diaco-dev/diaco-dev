@@ -14,20 +14,33 @@ Open to remote backend opportunities, collaborations, and contributing to open-s
 
 ---
 
-### 🔧 Tech Stack
-Core skills and tools I work with daily:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000?style=flat&logo=redis&logoColor=white)
+### 🔧 Tech Stack  
 
-- 🐍 **Languages:** Python, JavaScript (basic), Bash
-- ⚙️ **Frameworks:** Django REST Framework, FastAPI
-- 🗄️ **Databases:** PostgreSQL, SQLite, Redis
-- 🐳 **DevOps:** Docker, Docker Compose, Nginx, GitHub Actions
-- 🔌 **Others:** Celery, JWT, WebSockets, Swagger / OpenAPI
+**Core Skills**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-CC0000?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+
+**Additional Tools**  
+![gRPC](https://img.shields.io/badge/gRPC-000?style=flat&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3A3A3A?style=flat&logo=auth0&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=api&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+**Familiar With**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
