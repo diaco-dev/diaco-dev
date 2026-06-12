@@ -37,31 +37,11 @@ Open to remote backend opportunities, collaborations, and contributing to open-s
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Familiar With**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-
-- **[TaskManagerAPI]**  
-  A RESTful task management API with role-based access control and real-time notifications.  
-  ✅ Helped teams manage tasks more efficiently with real-time updates.  
-  **Tech**: Django REST Framework, PostgreSQL, Celery, Docker  
-  [Repository](...) | [Live Demo](...)
-
-
-- **[EcommerceAPI]**  
-  A scalable e-commerce API with user authentication, product management, and payment integration.  
-  **Tech**: FastAPI, PostgreSQL, JWT, Nginx  
-  [Repository](https://github.com/diaco-dev/ecommerce-api)
-
-- **[PythonAutomation]**  
-  A Python script for automating data scraping and processing with clean documentation.  
-  **Tech**: Python, BeautifulSoup, pytest  
-  [Repository](https://github.com/diaco-dev/python-automation)
 
 ---
 
@@ -71,12 +51,6 @@ Open to remote backend opportunities, collaborations, and contributing to open-s
 - 🌐 [My LinkedIn](www.linkedin.com/in/ario-hasanabbadi-09b918381)
 - ✉️ Email: ario.h.abbedi@gmail.com
 
----
-
-### 📚 Currently Learning  
-- Advanced system design  
-- CI/CD pipelines with Jenkins  
-- Cloud deployment (AWS / GCP)  
 
 ---
 
