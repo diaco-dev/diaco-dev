@@ -48,7 +48,7 @@ Open to remote backend opportunities, collaborations, and contributing to open-s
 
 ### 📫 Get in Touch
 
-- 🌐 [My LinkedIn](www.linkedin.com/in/ario-hasanabbadi-09b918381)
+- 🌐 [My LinkedIn](www.linkedin.com/in/ario-hasanabbadi)
 - ✉️ Email: ario.h.abbadi@gmail.com
 
 
