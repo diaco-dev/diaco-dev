@@ -1,7 +1,7 @@
 <h2 align="center">Backend Developer ⚡ Building scalable APIs & automation solutions</h2>
 
 
-🔍 What I’m Looking For  
+🔍 What I’m Looking For ..... 
 Open to remote backend opportunities, collaborations, and contributing to open-source projects.
 
 
