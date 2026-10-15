@@ -45,23 +45,30 @@ mindmap
       FastAPI
       SQLAlchemy
       Celery
-    ((Messaging & Services))
+    ((Messaging & services))
       RabbitMQ
       gRPC
       WebSockets
       Redis
     ((Data & AI))
       PostgreSQL
+      MongoDB
       ClickHouse
-      Milvus
       Elasticsearch
+      Milvus
       LangChain
+    ((ERP platforms))
+      Custom ERP
+      Odoo
+    ((Frontend))
+      React
+      Vue.js / Nuxt 3
     ((Infrastructure))
       Docker
       Nginx
       MinIO
-      Self-Hosted & On-Premise
+      self-hosted & on-premise deployments
     ((Practices))
-      Agile / Scrum
-      Code Review
-      Technical Leadership
+      Agile/Scrum
+      code review
+      technical leadership
