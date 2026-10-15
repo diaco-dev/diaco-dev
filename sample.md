@@ -35,48 +35,57 @@
 ```mermaid
 mindmap
   root((Ario's Tech Stack))
-    id1(Languages)
+    id1[Languages]
       Python
       SQL
       JavaScript
       Bash
-    id2(Backend)
+    id2[Backend]
       Django REST Framework
       FastAPI
       SQLAlchemy
       Celery
-    id3(Messaging & Services)
+    id3[Messaging & Services]
       RabbitMQ
       gRPC
       WebSockets
       Redis
-    id4(Data & AI)
+    id4[Data & AI]
       PostgreSQL
       ClickHouse
       Milvus
       Elasticsearch
       LangChain
-    id5(ERP platforms)
+    id5[ERP platforms]
       Custom ERP
       Odoo
-    id6(Frontend)
+    id6[Frontend]
       React
       Vue.js / Nuxt 3
-    id7(Infrastructure)
+    id7[Infrastructure]
       Docker
       Nginx
       MinIO
       Self-Hosted & On-Premise
-    id8(Practices)
+    id8[Practices]
       Agile / Scrum
       Code Review
       Technical Leadership
 
-  style id1 stroke:#38BDF8,stroke-width:2px
-  style id2 stroke:#10B981,stroke-width:2px
-  style id3 stroke:#A855F7,stroke-width:2px
-  style id4 stroke:#F59E0B,stroke-width:2px
-  style id5 stroke:#6366F1,stroke-width:2px
-  style id6 stroke:red,stroke-width:2px
-  style id7 stroke:orange,stroke-width:2px
-  style id8 stroke:brown,stroke-width:2px
+  classDef lang fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#fff
+  classDef backend fill:#0F172A,stroke:#10B981,stroke-width:2px,color:#fff
+  classDef msg fill:#0F172A,stroke:#A855F7,stroke-width:2px,color:#fff
+  classDef ai fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#fff
+  classDef erp fill:#0F172A,stroke:#6366F1,stroke-width:2px,color:#fff
+  classDef frontend fill:#0F172A,stroke:red,stroke-width:2px,color:#fff
+  classDef infra fill:#0F172A,stroke:orange,stroke-width:2px,color:#fff
+  classDef practices fill:#0F172A,stroke:brown,stroke-width:2px,color:#fff
+
+  class id1 lang
+  class id2 backend
+  class id3 msg
+  class id4 ai
+  class id5 erp
+  class id6 frontend
+  class id7 infra
+  class id8 practices
