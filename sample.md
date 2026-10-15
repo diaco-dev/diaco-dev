@@ -30,65 +30,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
 </div>
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'fontFamily': 'Inter, Segoe UI, sans-serif',
-    'fontSize': '14px',
-    'primaryColor': '#172554',
-    'primaryTextColor': '#F8FAFC',
-    'primaryBorderColor': '#3B82F6',
-    'lineColor': '#64748B',
-    'secondaryColor': '#DBEAFE',
-    'secondaryTextColor': '#172554',
-    'secondaryBorderColor': '#93C5FD',
-    'tertiaryColor': '#F1F5F9',
-    'tertiaryTextColor': '#334155',
-    'tertiaryBorderColor': '#CBD5E1'
-  },
-  'mindmap': {
-    'padding': 16
-  }
-} }%%
 
-mindmap
-  root((Ario's Tech Stack))
-    Languages
-      Python
-      SQL
-      JavaScript
-      Bash
-
-    Backend
-      Django REST Framework
-      FastAPI
-      SQLAlchemy
-      Celery
-
-    Messaging & Services
-      RabbitMQ
-      gRPC
-      WebSockets
-      Redis
-
-    Data & AI
-      PostgreSQL
-      ClickHouse
-      Milvus
-      Elasticsearch
-      LangChain
-
-    Infrastructure
-      Docker
-      Nginx
-      MinIO
-      Self-Hosted & On-Premise
-
-    Engineering Practices
-      Agile / Scrum
-      Code Review
-      Technical Leadership
-      
 ```mermaid
 %%{init: {
   'theme': 'base',
@@ -96,44 +38,54 @@ mindmap
     'fontFamily': 'Segoe UI, sans-serif',
     'primaryColor': '#0F172A',
     'primaryTextColor': '#F8FAFC',
-    'primaryBorderColor': '#1E293B',
-    'lineColor': '#38BDF8',
-    'secondaryColor': '#1E293B',
-    'tertiaryColor': '#051650'
+    'lineColor': '#38BDF8'
   }
 } }%%
 
 mindmap
   root((Ario's Tech Stack))
-    id1((Languages))
+    id1((Languages)):::lang
       Python
       SQL
       JavaScript
       Bash
-    id2((Backend))
+    id2((Backend)):::backend
       Django REST Framework
       FastAPI
       SQLAlchemy
       Celery
-    id3((Messaging & Services))
+    id3((Messaging & Services)):::msg
       RabbitMQ
       gRPC
       WebSockets
       Redis
-    id4((Data & AI))
+    id4((Data & AI)):::ai
       PostgreSQL
       ClickHouse
       Milvus
       Elasticsearch
       LangChain
-    id5((Infrastructure))
+    id5((ERP platforms)):::erp
+      Custom ERP
+      Odoo
+    id6((Frontend)):::frontend
+      React
+      Vue.js / Nuxt 3
+    id7((Infrastructure)):::infra
       Docker
       Nginx
       MinIO
       Self-Hosted & On-Premise
-    id6((Practices))
+    id8((Practices)):::practices
       Agile / Scrum
       Code Review
       Technical Leadership
 
-
+classDef lang stroke:#38BDF8,stroke-width:2px;
+classDef backend stroke:#10B981,stroke-width:2px;
+classDef msg stroke:#A855F7,stroke-width:2px;
+classDef ai stroke:#F59E0B,stroke-width:2px;
+classDef erp stroke:#6366F1,stroke-width:2px;
+classDef frontend stroke:red,stroke-width:2px;
+classDef infra stroke:orange,stroke-width:2px;
+classDef practices stroke:brown,stroke-width:2px;
