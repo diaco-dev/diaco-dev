@@ -31,6 +31,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
 </div>
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
+
 ```mermaid
 mindmap
   root((Ario's Tech Stack))
