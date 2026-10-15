@@ -31,52 +31,51 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
 </div>
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
-
 ```mermaid
 mindmap
   root((Ario's Tech Stack))
-    Languages
+    id1(Languages)
       Python
       SQL
       JavaScript
       Bash
-    Backend
+    id2(Backend)
       Django REST Framework
       FastAPI
       SQLAlchemy
       Celery
-    Messaging & Services
+    id3(Messaging & Services)
       RabbitMQ
       gRPC
       WebSockets
       Redis
-    Data & AI
+    id4(Data & AI)
       PostgreSQL
       ClickHouse
       Milvus
       Elasticsearch
       LangChain
-    ERP platforms
+    id5(ERP platforms)
       Custom ERP
       Odoo
-    Frontend
+    id6(Frontend)
       React
       Vue.js / Nuxt 3
-    Infrastructure
+    id7(Infrastructure)
       Docker
       Nginx
       MinIO
       Self-Hosted & On-Premise
-    Practices
+    id8(Practices)
       Agile / Scrum
       Code Review
       Technical Leadership
 
-  style Languages stroke:#38BDF8,stroke-width:2px;
-  style Backend stroke:#10B981,stroke-width:2px;
-  style "Messaging & Services" stroke:#A855F7,stroke-width:2px;
-  style "Data & AI" stroke:#F59E0B,stroke-width:2px;
-  style "ERP platforms" stroke:#6366F1,stroke-width:2px;
-  style Frontend stroke:red,stroke-width:2px;
-  style Infrastructure stroke:orange,stroke-width:2px;
-  style Practices stroke:brown,stroke-width:2px;
+  style id1 stroke:#38BDF8,stroke-width:2px
+  style id2 stroke:#10B981,stroke-width:2px
+  style id3 stroke:#A855F7,stroke-width:2px
+  style id4 stroke:#F59E0B,stroke-width:2px
+  style id5 stroke:#6366F1,stroke-width:2px
+  style id6 stroke:red,stroke-width:2px
+  style id7 stroke:orange,stroke-width:2px
+  style id8 stroke:brown,stroke-width:2px
