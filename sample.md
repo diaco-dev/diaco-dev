@@ -23,37 +23,43 @@
 - ![](https://img.shields.io/badge/%20-Security%20%26%20Access%20Control-F8FAFC?style=flat&labelColor=F59E0B) ![](https://img.shields.io/badge/-Granular%20RBAC%20%26%20ABAC-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-SSO%20%5BJWT%20%2F%20JWKS%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Centralized%20Audit%20Logging-0F172A?style=flat&labelColor=000000)
 - ![](https://img.shields.io/badge/%20-Leadership-F8FAFC?style=flat&labelColor=6366F1) ![](https://img.shields.io/badge/-Backend%20Team%20Lead%20%26%20Project%20Manager-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Agile%2FScrum%20%5BBackend%20%2F%20DevOps%20%2F%20Data%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-PM%20of%20a%2023--Person%20ERP%20Program-0F172A?style=flat&labelColor=000000)
 
-<!-- ==================== SECTION 3: Tech ==================== -->
+<!-- ==================== SECTION 3: Tech Stack & Architecture ==================== -->
+## Tech Stack & Architecture
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
+</div>
+
 ```mermaid
 mindmap
   root((Skills))
     ((Languages))
-      Python
-      SQL
-      JavaScript
-      Bash
+      fa:fa-python Python
+      fa:fa-database SQL
+      fa:fa-js JavaScript
+      fa:fa-terminal Bash
     ((Backend))
-      Django REST Framework
-      FastAPI
-      SQLAlchemy
-      Celery
+      fa:fa-server Django REST
+      fa:fa-bolt FastAPI
+      fa:fa-database SQLAlchemy
+      fa:fa-tasks Celery
     ((Messaging & Services))
-      RabbitMQ
-      gRPC
-      WebSockets
-      Redis
+      fa:fa-exchange RabbitMQ
+      fa:fa-network-wired gRPC
+      fa:fa-plug WebSockets
+      fa:fa-database Redis
     ((Data & AI))
-      PostgreSQL
-      ClickHouse
-      Milvus
-      Elasticsearch
-      LangChain
+      fa:fa-database PostgreSQL
+      fa:fa-chart-bar ClickHouse
+      fa:fa-brain Milvus
+      fa:fa-search Elasticsearch
+      fa:fa-robot LangChain
     ((Infrastructure))
-      Docker
-      Nginx
-      MinIO
-      Self-Hosted & On-Premise
+      fa:fa-docker Docker
+      fa:fa-server Nginx
+      fa:fa-hdd MinIO
+      fa:fa-server Self-Hosted
     ((Practices))
-      Agile / Scrum
-      Code Review
-      Technical Leadership
+      fa:fa-users Agile / Scrum
+      fa:fa-code Code Review
+      fa:fa-user-tie Leadership
