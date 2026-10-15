@@ -29,37 +29,52 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
 </div>
+<!-- ==================== SECTION 3: Tech Stack ==================== -->
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'fontFamily': 'Segoe UI, sans-serif',
+    'primaryColor': '#0F172A',
+    'primaryTextColor': '#F8FAFC',
+    'primaryBorderColor': '#1E293B',
+    'lineColor': '#38BDF8',
+    'secondaryColor': '#1E293B',
+    'tertiaryColor': '#051650'
+  }
+} }%%
+
 mindmap
-  root((Skills))
-    ((Languages))
-      fa:fa-python Python
-      fa:fa-database SQL
-      fa:fa-js JavaScript
-      fa:fa-terminal Bash
-    ((Backend))
-      fa:fa-server Django REST
-      fa:fa-bolt FastAPI
-      fa:fa-database SQLAlchemy
-      fa:fa-tasks Celery
-    ((Messaging & Services))
-      fa:fa-exchange RabbitMQ
-      fa:fa-network-wired gRPC
-      fa:fa-plug WebSockets
-      fa:fa-database Redis
-    ((Data & AI))
-      fa:fa-database PostgreSQL
-      fa:fa-chart-bar ClickHouse
-      fa:fa-brain Milvus
-      fa:fa-search Elasticsearch
-      fa:fa-robot LangChain
-    ((Infrastructure))
-      fa:fa-docker Docker
-      fa:fa-server Nginx
-      fa:fa-hdd MinIO
-      fa:fa-server Self-Hosted
-    ((Practices))
-      fa:fa-users Agile / Scrum
-      fa:fa-code Code Review
-      fa:fa-user-tie Leadership
+  root((Ario's Tech Stack))
+    id1((Languages))
+      Python
+      SQL
+      JavaScript
+      Bash
+    id2((Backend))
+      Django REST Framework
+      FastAPI
+      SQLAlchemy
+      Celery
+    id3((Messaging & Services))
+      RabbitMQ
+      gRPC
+      WebSockets
+      Redis
+    id4((Data & AI))
+      PostgreSQL
+      ClickHouse
+      Milvus
+      Elasticsearch
+      LangChain
+    id5((Infrastructure))
+      Docker
+      Nginx
+      MinIO
+      Self-Hosted & On-Premise
+    id6((Practices))
+      Agile / Scrum
+      Code Review
+      Technical Leadership
+
