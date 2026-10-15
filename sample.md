@@ -30,7 +30,65 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
 </div>
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'fontFamily': 'Inter, Segoe UI, sans-serif',
+    'fontSize': '14px',
+    'primaryColor': '#172554',
+    'primaryTextColor': '#F8FAFC',
+    'primaryBorderColor': '#3B82F6',
+    'lineColor': '#64748B',
+    'secondaryColor': '#DBEAFE',
+    'secondaryTextColor': '#172554',
+    'secondaryBorderColor': '#93C5FD',
+    'tertiaryColor': '#F1F5F9',
+    'tertiaryTextColor': '#334155',
+    'tertiaryBorderColor': '#CBD5E1'
+  },
+  'mindmap': {
+    'padding': 16
+  }
+} }%%
 
+mindmap
+  root((Ario's Tech Stack))
+    Languages
+      Python
+      SQL
+      JavaScript
+      Bash
+
+    Backend
+      Django REST Framework
+      FastAPI
+      SQLAlchemy
+      Celery
+
+    Messaging & Services
+      RabbitMQ
+      gRPC
+      WebSockets
+      Redis
+
+    Data & AI
+      PostgreSQL
+      ClickHouse
+      Milvus
+      Elasticsearch
+      LangChain
+
+    Infrastructure
+      Docker
+      Nginx
+      MinIO
+      Self-Hosted & On-Premise
+
+    Engineering Practices
+      Agile / Scrum
+      Code Review
+      Technical Leadership
+      
 ```mermaid
 %%{init: {
   'theme': 'base',
@@ -77,3 +135,5 @@ mindmap
       Agile / Scrum
       Code Review
       Technical Leadership
+
+
