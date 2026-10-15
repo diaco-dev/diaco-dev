@@ -4,7 +4,7 @@
 </div>
 <br/>
 <!-- ==================== SECTION 2: WHAT I BUILD ==================== -->
-## What I build
+# What I build
 
 * ![](https://img.shields.io/badge/%20-ERP%20%26%20Business%20Systems-F8FAFC?style=flat&labelColor=38BDF8) ![](https://img.shields.io/badge/-HRM%2FHRIS%20--%20Attendance%20--%20CRM%20--%20POS%20--%20WMS%20--%20OMS%20--%20SCM%2FSRM-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Accounting%20--%20ITSM%20--%20BI%20Dashboards%20--%20DMS-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-SaaS%20%2F%20On--Premise%20%2F%20Self--Hosted-0F172A?style=flat&labelColor=000000)
 * ![](https://img.shields.io/badge/%20-Automation%20%26%20Integration-F8FAFC?style=flat&labelColor=10B981) ![](https://img.shields.io/badge/-Event--Driven%20Microservices%20%5BRabbitMQ%20%2F%20gRPC%20%2F%20Celery%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Kiosk%20Hardware%20%26%20Payment%20Gateways-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Real--Time%20%5BWebSockets%5D-0F172A?style=flat&labelColor=000000)
