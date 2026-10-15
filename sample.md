@@ -33,70 +33,35 @@
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
 
 ```mermaid
-graph TD
-    Root["Ario's Tech Stack"]
-
-    %% Branches
-    Root --> Lang["Languages"]
-    Root --> Backend["Backend"]
-    Root --> Msg["Messaging & Services"]
-    Root --> AI["Data & AI"]
-    Root --> ERP["ERP platforms"]
-    Root --> Frontend["Frontend"]
-    Root --> Infra["Infrastructure"]
-    Root --> Practices["Practices"]
-
-    %% Languages items
-    Lang --> Python["Python"]
-    Lang --> SQL["SQL"]
-    Lang --> JS["JavaScript"]
-    Lang --> Bash["Bash"]
-
-    %% Backend items
-    Backend --> DRF["Django REST Framework"]
-    Backend --> FastAPI["FastAPI"]
-    Backend --> SQLAlchemy["SQLAlchemy"]
-    Backend --> Celery["Celery"]
-
-    %% Messaging items
-    Msg --> RabbitMQ["RabbitMQ"]
-    Msg --> gRPC["gRPC"]
-    Msg --> WS["WebSockets"]
-    Msg --> Redis["Redis"]
-
-    %% AI items
-    AI --> PG["PostgreSQL"]
-    AI --> CH["ClickHouse"]
-    AI --> Milvus["Milvus"]
-    AI --> ES["Elasticsearch"]
-    AI --> LangChain["LangChain"]
-
-    %% ERP items
-    ERP --> CustomERP["Custom ERP"]
-    ERP --> Odoo["Odoo"]
-
-    %% Frontend items
-    Frontend --> React["React"]
-    Frontend --> Vue["Vue.js / Nuxt 3"]
-
-    %% Infra items
-    Infra --> Docker["Docker"]
-    Infra --> Nginx["Nginx"]
-    Infra --> MinIO["MinIO"]
-    Infra --> SelfHosted["Self-Hosted & On-Premise"]
-
-    %% Practices items
-    Practices --> Agile["Agile / Scrum"]
-    Practices --> CR["Code Review"]
-    Practices --> Lead["Technical Leadership"]
-
-    %% Border (stroke) colors as requested
-    style Lang stroke:#38BDF8,stroke-width:2px,fill:#0F172A,color:#fff
-    style Backend stroke:#10B981,stroke-width:2px,fill:#0F172A,color:#fff
-    style Msg stroke:#A855F7,stroke-width:2px,fill:#0F172A,color:#fff
-    style AI stroke:#F59E0B,stroke-width:2px,fill:#0F172A,color:#fff
-    style ERP stroke:#6366F1,stroke-width:2px,fill:#0F172A,color:#fff
-    style Frontend stroke:red,stroke-width:2px,fill:#0F172A,color:#fff
-    style Infra stroke:orange,stroke-width:2px,fill:#0F172A,color:#fff
-    style Practices stroke:brown,stroke-width:2px,fill:#0F172A,color:#fff
-    style Root stroke:#38BDF8,stroke-width:3px,fill:#051650,color:#fff
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      SQL
+      JavaScript
+      Bash
+    ((Backend))
+      Django REST Framework
+      FastAPI
+      SQLAlchemy
+      Celery
+    ((Messaging & Services))
+      RabbitMQ
+      gRPC
+      WebSockets
+      Redis
+    ((Data & AI))
+      PostgreSQL
+      ClickHouse
+      Milvus
+      Elasticsearch
+      LangChain
+    ((Infrastructure))
+      Docker
+      Nginx
+      MinIO
+      Self-Hosted & On-Premise
+    ((Practices))
+      Agile / Scrum
+      Code Review
+      Technical Leadership
