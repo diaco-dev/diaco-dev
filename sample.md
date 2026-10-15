@@ -24,12 +24,6 @@
 - ![](https://img.shields.io/badge/%20-Security%20%26%20Access%20Control-F8FAFC?style=flat&labelColor=F59E0B) ![](https://img.shields.io/badge/-Granular%20RBAC%20%26%20ABAC-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-SSO%20%5BJWT%20%2F%20JWKS%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Centralized%20Audit%20Logging-0F172A?style=flat&labelColor=000000)
 - ![](https://img.shields.io/badge/%20-Leadership-F8FAFC?style=flat&labelColor=6366F1) ![](https://img.shields.io/badge/-Backend%20Team%20Lead%20%26%20Project%20Manager-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Agile%2FScrum%20%5BBackend%20%2F%20DevOps%20%2F%20Data%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-PM%20of%20a%2023--Person%20ERP%20Program-0F172A?style=flat&labelColor=000000)
 
-<!-- ==================== SECTION 3: Tech Stack & Architecture ==================== -->
-## Tech Stack & Architecture
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
-</div>
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
 
 ```mermaid
@@ -72,3 +66,26 @@ mindmap
       Agile/Scrum
       code review
       technical leadership
+
+<!-- ==================== SECTION 4: Selected Work ==================== -->
+
+## Selected Work
+
+Most of my production work is private (client and company systems), so the repositories below are public, sanitized examples of the same patterns.
+
+| **PROJECT** |  **ENGINEERING FOCUS** |
+|:--|:--|
+| [![SSO Auth Gateway](https://img.shields.io/badge/SSO_Auth_Gateway-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/diaco-dev/sso-auth-gateway) | ![test](https://img.shields.io/static/v1?label=&message=Centralized%20SSO%20with%20JWT%20and%20JWKS%20for%20multiple%20services&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) |
+| ![ERP Lite](https://img.shields.io/badge/ERP_Lite-18181B?style=flat-square&logo=databricks&logoColor=white) | ![test](https://img.shields.io/static/v1?label=&message=Multi--tenant%20ERP%20backend%20with%20RBAC%2FABAC%2C%20orders%2C%20inventory%20and%20invoicing&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)|
+| ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-18181B?style=flat-square&logo=rabbitmq&logoColor=white) | ![test](https://img.shields.io/static/v1?label=&message=Event--driven%20workflows%20with%20RabbitMQ%20and%20Celery%2C%20retries%20and%20idempotency&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) |
+| ![RAG & Milvus](https://img.shields.io/badge/RAG_&_Milvus-18181B?style=flat-square&logo=langchain&logoColor=white) | ![test](https://img.shields.io/static/v1?label=&message=RAG%20and%20semantic%20search%20on%20Milvus%20with%20a%20small%20evaluation%20set&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) |
+| ![Django Toolkit](https://img.shields.io/badge/Django_Toolkit-18181B?style=flat-square&logo=django&logoColor=white) | ![test](https://img.shields.io/static/v1?label=&message=Reusable%20Django%20tooling%20%28error%20handling%2C%20request%20logging%29&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) |
+
+
+
+<!-- ==================== Footer Tech Stack & Architecture ==================== -->
+## Tech Stack & Architecture
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
+</div>
