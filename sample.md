@@ -72,7 +72,7 @@ mindmap
 
 ## Selected Work
 
-Most of my production work is private (client and company systems), so the repositories below are public, sanitized examples of the same patterns.
+> Most of my production work is private (client and company systems), so the repositories below are public, sanitized examples of the same patterns.
 
 | **PROJECT** |  **ENGINEERING FOCUS** |
 |:--|:--|
@@ -83,9 +83,8 @@ Most of my production work is private (client and company systems), so the repos
 | ![Django Toolkit](https://img.shields.io/badge/Django_Toolkit-18181B?style=flat-square&logo=django&logoColor=white) | ![test](https://img.shields.io/static/v1?label=&message=Reusable%20Django%20tooling%20%28error%20handling%2C%20request%20logging%29&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605) |
 
 
-
 <!-- ==================== Footer Tech Stack & Architecture ==================== -->
-## Tech Stack & Architecture
+---
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,rabbitmq,redis,postgres,elasticsearch,docker,nginx,linux,git,bash" alt="Tech Stack Icons" />
