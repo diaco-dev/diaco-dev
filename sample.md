@@ -33,59 +33,70 @@
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
 
 ```mermaid
-mindmap
-  root((Ario's Tech Stack))
-    id1[Languages]
-      Python
-      SQL
-      JavaScript
-      Bash
-    id2[Backend]
-      Django REST Framework
-      FastAPI
-      SQLAlchemy
-      Celery
-    id3[Messaging & Services]
-      RabbitMQ
-      gRPC
-      WebSockets
-      Redis
-    id4[Data & AI]
-      PostgreSQL
-      ClickHouse
-      Milvus
-      Elasticsearch
-      LangChain
-    id5[ERP platforms]
-      Custom ERP
-      Odoo
-    id6[Frontend]
-      React
-      Vue.js / Nuxt 3
-    id7[Infrastructure]
-      Docker
-      Nginx
-      MinIO
-      Self-Hosted & On-Premise
-    id8[Practices]
-      Agile / Scrum
-      Code Review
-      Technical Leadership
+graph TD
+    Root["Ario's Tech Stack"]
 
-  classDef lang fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#fff
-  classDef backend fill:#0F172A,stroke:#10B981,stroke-width:2px,color:#fff
-  classDef msg fill:#0F172A,stroke:#A855F7,stroke-width:2px,color:#fff
-  classDef ai fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#fff
-  classDef erp fill:#0F172A,stroke:#6366F1,stroke-width:2px,color:#fff
-  classDef frontend fill:#0F172A,stroke:red,stroke-width:2px,color:#fff
-  classDef infra fill:#0F172A,stroke:orange,stroke-width:2px,color:#fff
-  classDef practices fill:#0F172A,stroke:brown,stroke-width:2px,color:#fff
+    %% Branches
+    Root --> Lang["Languages"]
+    Root --> Backend["Backend"]
+    Root --> Msg["Messaging & Services"]
+    Root --> AI["Data & AI"]
+    Root --> ERP["ERP platforms"]
+    Root --> Frontend["Frontend"]
+    Root --> Infra["Infrastructure"]
+    Root --> Practices["Practices"]
 
-  class id1 lang
-  class id2 backend
-  class id3 msg
-  class id4 ai
-  class id5 erp
-  class id6 frontend
-  class id7 infra
-  class id8 practices
+    %% Languages items
+    Lang --> Python["Python"]
+    Lang --> SQL["SQL"]
+    Lang --> JS["JavaScript"]
+    Lang --> Bash["Bash"]
+
+    %% Backend items
+    Backend --> DRF["Django REST Framework"]
+    Backend --> FastAPI["FastAPI"]
+    Backend --> SQLAlchemy["SQLAlchemy"]
+    Backend --> Celery["Celery"]
+
+    %% Messaging items
+    Msg --> RabbitMQ["RabbitMQ"]
+    Msg --> gRPC["gRPC"]
+    Msg --> WS["WebSockets"]
+    Msg --> Redis["Redis"]
+
+    %% AI items
+    AI --> PG["PostgreSQL"]
+    AI --> CH["ClickHouse"]
+    AI --> Milvus["Milvus"]
+    AI --> ES["Elasticsearch"]
+    AI --> LangChain["LangChain"]
+
+    %% ERP items
+    ERP --> CustomERP["Custom ERP"]
+    ERP --> Odoo["Odoo"]
+
+    %% Frontend items
+    Frontend --> React["React"]
+    Frontend --> Vue["Vue.js / Nuxt 3"]
+
+    %% Infra items
+    Infra --> Docker["Docker"]
+    Infra --> Nginx["Nginx"]
+    Infra --> MinIO["MinIO"]
+    Infra --> SelfHosted["Self-Hosted & On-Premise"]
+
+    %% Practices items
+    Practices --> Agile["Agile / Scrum"]
+    Practices --> CR["Code Review"]
+    Practices --> Lead["Technical Leadership"]
+
+    %% Border (stroke) colors as requested
+    style Lang stroke:#38BDF8,stroke-width:2px,fill:#0F172A,color:#fff
+    style Backend stroke:#10B981,stroke-width:2px,fill:#0F172A,color:#fff
+    style Msg stroke:#A855F7,stroke-width:2px,fill:#0F172A,color:#fff
+    style AI stroke:#F59E0B,stroke-width:2px,fill:#0F172A,color:#fff
+    style ERP stroke:#6366F1,stroke-width:2px,fill:#0F172A,color:#fff
+    style Frontend stroke:red,stroke-width:2px,fill:#0F172A,color:#fff
+    style Infra stroke:orange,stroke-width:2px,fill:#0F172A,color:#fff
+    style Practices stroke:brown,stroke-width:2px,fill:#0F172A,color:#fff
+    style Root stroke:#38BDF8,stroke-width:3px,fill:#051650,color:#fff
