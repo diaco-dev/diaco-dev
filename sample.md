@@ -13,8 +13,6 @@
   <img src="./hero-banner.svg" width="100%" alt="Hi, I'm Ario Hasan-abbadi — Senior Software Engineer" />
 </div>
 
-<br/>
-
 <!-- ==================== SECTION 2: WHAT I BUILD ==================== -->
 ## What I build
 
@@ -25,6 +23,7 @@
 - ![](https://img.shields.io/badge/%20-Leadership-F8FAFC?style=flat&labelColor=6366F1) ![](https://img.shields.io/badge/-Backend%20Team%20Lead%20%26%20Project%20Manager-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Agile%2FScrum%20%5BBackend%20%2F%20DevOps%20%2F%20Data%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-PM%20of%20a%2023--Person%20ERP%20Program-0F172A?style=flat&labelColor=000000)
 
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
+
 
 ```mermaid
 mindmap
