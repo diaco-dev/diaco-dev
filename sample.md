@@ -33,60 +33,50 @@
 <!-- ==================== SECTION 3: Tech Stack ==================== -->
 
 ```mermaid
-%%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'fontFamily': 'Segoe UI, sans-serif',
-    'primaryColor': '#0F172A',
-    'primaryTextColor': '#F8FAFC',
-    'lineColor': '#38BDF8'
-  }
-} }%%
-
 mindmap
   root((Ario's Tech Stack))
-    id1((Languages)):::lang
+    Languages
       Python
       SQL
       JavaScript
       Bash
-    id2((Backend)):::backend
+    Backend
       Django REST Framework
       FastAPI
       SQLAlchemy
       Celery
-    id3((Messaging & Services)):::msg
+    Messaging & Services
       RabbitMQ
       gRPC
       WebSockets
       Redis
-    id4((Data & AI)):::ai
+    Data & AI
       PostgreSQL
       ClickHouse
       Milvus
       Elasticsearch
       LangChain
-    id5((ERP platforms)):::erp
+    ERP platforms
       Custom ERP
       Odoo
-    id6((Frontend)):::frontend
+    Frontend
       React
       Vue.js / Nuxt 3
-    id7((Infrastructure)):::infra
+    Infrastructure
       Docker
       Nginx
       MinIO
       Self-Hosted & On-Premise
-    id8((Practices)):::practices
+    Practices
       Agile / Scrum
       Code Review
       Technical Leadership
 
-classDef lang stroke:#38BDF8,stroke-width:2px;
-classDef backend stroke:#10B981,stroke-width:2px;
-classDef msg stroke:#A855F7,stroke-width:2px;
-classDef ai stroke:#F59E0B,stroke-width:2px;
-classDef erp stroke:#6366F1,stroke-width:2px;
-classDef frontend stroke:red,stroke-width:2px;
-classDef infra stroke:orange,stroke-width:2px;
-classDef practices stroke:brown,stroke-width:2px;
+  style Languages stroke:#38BDF8,stroke-width:2px;
+  style Backend stroke:#10B981,stroke-width:2px;
+  style "Messaging & Services" stroke:#A855F7,stroke-width:2px;
+  style "Data & AI" stroke:#F59E0B,stroke-width:2px;
+  style "ERP platforms" stroke:#6366F1,stroke-width:2px;
+  style Frontend stroke:red,stroke-width:2px;
+  style Infrastructure stroke:orange,stroke-width:2px;
+  style Practices stroke:brown,stroke-width:2px;
