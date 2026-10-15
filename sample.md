@@ -1,56 +1,15 @@
 <!-- ==================== SECTION 1: HERO BANNER ==================== -->
 <div align="center">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Hi, I'm Ario Hasan-abbadi — Senior Software Engineer" />
+  <img src="./hero-banner.svg" width="100%" alt="Hi, I'm Ario Hasan-abbadi — Senior Software Engineer" />
 </div>
 
 <br/>
 
 <!-- ==================== SECTION 2: WHAT I BUILD ==================== -->
-## ⚡ What I build
+## What I build
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>01</code> &nbsp;ERP &amp; Business Systems</h4>
-      <p>
-        <b>Modules:</b> <code>HRM/HRIS</code> <code>Time &amp; Attendance</code> <code>CRM</code> <code>POS</code> <code>WMS</code> <code>OMS</code> <code>SCM/SRM</code> <code>Accounting</code> <code>ITSM</code> <code>BI Dashboards</code> <code>DMS</code><br/>
-        <code>└─</code> Delivered as <b>SaaS</b>, <b>on-premise</b>, or <b>self-hosted</b> enterprise systems.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>02</code> &nbsp;Automation &amp; Integration</h4>
-      <p>
-        <code>├─</code> Event-driven microservices with <code>RabbitMQ</code>, <code>gRPC</code> &amp; <code>Celery</code><br/>
-        <code>├─</code> Kiosk hardware &amp; payment-gateway integrations<br/>
-        <code>└─</code> Real-time operational features powered by <code>WebSockets</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>03</code> &nbsp;AI on Enterprise Data</h4>
-      <p>
-        <code>├─</code> Semantic search &amp; RAG pipelines on <code>Milvus</code><br/>
-        <code>├─</code> High-speed analytical workloads on <code>ClickHouse</code><br/>
-        <code>└─</code> AI agents over ERP data &amp; AI-assisted task routing from <b>voice and text</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>04</code> &nbsp;Security &amp; Access Control</h4>
-      <p>
-        <code>├─</code> Granular <code>RBAC</code> &amp; attribute-based access control (<code>ABAC</code>)<br/>
-        <code>├─</code> Single Sign-On (<code>SSO</code>) with <code>JWT / JWKS</code><br/>
-        <code>└─</code> Centralized enterprise audit logging &amp; compliance tracking
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4><code>05</code> &nbsp;Leadership &amp; Engineering Management</h4>
-      <p>
-        <code>├─</code> <b>Backend Team Lead &amp; Project Manager:</b> Agile/Scrum delivery across backend, DevOps, and data engineers<br/>
-        <code>└─</code> <b>Program Scale:</b> Project manager of a <b>23-person ERP program</b> from architecture to production release
-      </p>
-    </td>
-  </tr>
-</table>
+* ![](https://img.shields.io/badge/%20-ERP%20%26%20Business%20Systems-F8FAFC?style=flat&labelColor=38BDF8) ![](https://img.shields.io/badge/-HRM%2FHRIS%20--%20Attendance%20--%20CRM%20--%20POS%20--%20WMS%20--%20OMS%20--%20SCM%2FSRM-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Accounting%20--%20ITSM%20--%20BI%20Dashboards%20--%20DMS-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-SaaS%20%2F%20On--Premise%20%2F%20Self--Hosted-0F172A?style=flat&labelColor=000000)
+* ![](https://img.shields.io/badge/%20-Automation%20%26%20Integration-F8FAFC?style=flat&labelColor=10B981) ![](https://img.shields.io/badge/-Event--Driven%20Microservices%20%5BRabbitMQ%20%2F%20gRPC%20%2F%20Celery%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Kiosk%20Hardware%20%26%20Payment%20Gateways-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Real--Time%20%5BWebSockets%5D-0F172A?style=flat&labelColor=000000)
+* ![](https://img.shields.io/badge/%20-AI%20on%20Enterprise%20Data-F8FAFC?style=flat&labelColor=A855F7) ![](https://img.shields.io/badge/-Semantic%20Search%20%26%20RAG%20%5BMilvus%5D%20--%20Analytics%20%5BClickHouse%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-AI%20Agents%20over%20ERP%20Data-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-AI%20Task%20Routing%20%5BVoice%20%2F%20Text%5D-0F172A?style=flat&labelColor=000000)
+* ![](https://img.shields.io/badge/%20-Security%20%26%20Access%20Control-F8FAFC?style=flat&labelColor=F59E0B) ![](https://img.shields.io/badge/-Granular%20RBAC%20%26%20ABAC-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-SSO%20%5BJWT%20%2F%20JWKS%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Centralized%20Audit%20Logging-0F172A?style=flat&labelColor=000000)
+* ![](https://img.shields.io/badge/%20-Leadership-F8FAFC?style=flat&labelColor=6366F1) ![](https://img.shields.io/badge/-Backend%20Team%20Lead%20%26%20Project%20Manager-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-Agile%2FScrum%20%5BBackend%20%2F%20DevOps%20%2F%20Data%5D-0F172A?style=flat&labelColor=000000) ![](https://img.shields.io/badge/-PM%20of%20a%2023--Person%20ERP%20Program-0F172A?style=flat&labelColor=000000)
