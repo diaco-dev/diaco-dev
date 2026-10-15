@@ -36,45 +36,42 @@
   'theme': 'base',
   'themeVariables': {
     'fontFamily': 'Segoe UI, sans-serif',
-    'primaryColor': '#0F172A',
     'primaryTextColor': '#F8FAFC',
-    'primaryBorderColor': '#1E293B',
-    'lineColor': '#38BDF8',
-    'secondaryColor': '#1E293B',
-    'tertiaryColor': '#051650'
+    'lineColor': '#64748B',
+    'fontSize': '14px'
   }
 } }%%
 
 mindmap
-  root((Ario's Tech Stack))
-    id1((Languages))
+  root((Skills))
+    ((Languages))
       Python
       SQL
       JavaScript
       Bash
-    id2((Backend))
-      Django REST Framework
-      FastAPI
-      SQLAlchemy
-      Celery
-    id3((Messaging & Services))
-      RabbitMQ
-      gRPC
-      WebSockets
-      Redis
-    id4((Data & AI))
-      PostgreSQL
-      ClickHouse
-      Milvus
-      Elasticsearch
-      LangChain
-    id5((Infrastructure))
-      Docker
-      Nginx
-      MinIO
-      Self-Hosted & On-Premise
-    id6((Practices))
+    id1(fa:fa-server ERP & Systems)
+      HRM / HRIS
+      Attendance
+      CRM & POS
+      WMS & OMS & SCM
+      Accounting & ITSM
+      BI & DMS
+      SaaS / On-Premise
+    id2(fa:fa-cogs Automation)
+      Event-Driven Microservices
+      RabbitMQ & gRPC & Celery
+      Kiosk & Payment Gateways
+      Real-Time WebSockets
+    id3(fa:fa-brain AI & Data)
+      Semantic Search & RAG
+      Milvus & ClickHouse
+      AI Agents over ERP
+      Voice & Text Task Routing
+    id4(fa:fa-shield-alt Security)
+      Granular RBAC & ABAC
+      SSO with JWT/JWKS
+      Centralized Audit Logging
+    id5(fa:fa-users Leadership)
+      Backend Team Lead
       Agile / Scrum
-      Code Review
-      Technical Leadership
-
+      23-Person ERP Program PM
