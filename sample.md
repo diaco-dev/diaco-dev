@@ -1,16 +1,11 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](لینک_لینکدین_شما)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](لینک_لینکدین_شما)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)](لینک_گیت_هاب_شما)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ایمیل_شما)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310B981.svg?style=flat&logo=todoist&logoColor=white)](https://ario.cloudyhost.org)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310B981.svg?style=flat&logo=globe&logoColor=white)](https://ario.cloudyhost.org)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310B981.svg?style=flat&logo=world&logoColor=white)](https://ario.cloudyhost.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ario-hasanabbadi)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/diaco-dev)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ario.h.abbadi@gmail.com)&nbsp;&nbsp;
+<a href="https://ario.cloudyhost.org"><img src="https://raw.githubusercontent.com/diaco-dev/diaco-dev/main/face.png" width="28" height="30" style="border-radius: 50%; vertical-align: middle; background-color: #000000; border: 1px solid #1E293B;" /></a>&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-051650?style=for-the-badge&labelColor=000000)](https://ario.cloudyhost.org)
 
 </div>
-
-
 <!-- ==================== SECTION 1: HERO BANNER ==================== -->
 <div align="center">
   <img src="./hero-banner.svg" width="100%" alt="Hi, I'm Ario Hasan-abbadi — Senior Software Engineer" />
