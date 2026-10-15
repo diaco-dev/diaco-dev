@@ -66,6 +66,7 @@ mindmap
       Agile/Scrum
       code review
       technical leadership
+```
 
 <!-- ==================== SECTION 4: Selected Work ==================== -->
 
