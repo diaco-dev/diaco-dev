@@ -237,16 +237,10 @@
 
     <!-- Exact Bio Text -->
     <text x="32" y="198" fill="#E2E8F0" class="font-sans" font-size="13.2">
-      I design and ship enterprise back-end systems: multi-module ERPs, workflow automation,
+      7+ years building enterprise back-end systems for healthcare, logistics and SaaS:
     </text>
     <text x="32" y="218" fill="#E2E8F0" class="font-sans" font-size="13.2">
-      secure access control, and AI features on top of business data. 7+ years of production
-    </text>
-    <text x="32" y="238" fill="#94A3B8" class="font-sans" font-size="13.2">
-      work across healthcare, logistics, SaaS, coaching and education, leading cross-functional
-    </text>
-    <text x="32" y="256" fill="#94A3B8" class="font-sans" font-size="13.2">
-      teams along the way.
+      multi-module ERPs, workflow automation, secure access control and AI on business data
     </text>
 
     <!-- Bottom Domain Tags -->
